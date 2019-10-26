@@ -1,0 +1,61 @@
+.header {
+    position: absolute;
+    width: 1600px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFEFE;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.header a:nth-child(1) {
+    position: absolute;
+    width: 150px;
+    height: 110px;
+    left: 48px;
+    top: 0px;
+
+    background: url(gambar1.jpg);
+
+}
+
+.header a:nth-child(2) {
+    position: absolute;
+    width: 555px;
+    height: 65px;
+    left: 214px;
+    top: 34px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    line-height: 39px;
+    text-decoration: none;
+
+    color: #FF8FB2;
+}
+
+#add {
+    position: absolute;
+    width: 190px;
+    left: 1350px;
+    padding: 10px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+
+    color: #FFEFEF;
+    background: #FF8FB2;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
